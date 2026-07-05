@@ -16,3 +16,11 @@ Scoring weights, theme codes, position sizes.
 ## Disclaimer
 
 Educational research documentation. Nothing here is investment advice, a performance claim, or a solicitation.
+
+## Case studies
+
+Resolved, receipt-backed retrospectives (pre-ledger calls, documented timestamps):
+
+- [CS-001 — Index inclusion: VRT & CIEN, called 2025-12-19, both resolved in window](case-studies/CS-001_index_inclusion.md)
+
+
